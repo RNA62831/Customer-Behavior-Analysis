@@ -6,7 +6,7 @@ This project analyzes customer shopping behavior to help a retail business under
 **Business Question:**  
 How can customer data be leveraged to identify trends, improve customer engagement, and optimize marketing and product strategies? 
 
-The project covers the complete data analytics lifecycle — from data cleaning and exploration to SQL analysis, dashboard creation, and business recommendations.
+The project covers the complete data analytics lifecycle, from data cleaning and exploration to SQL analysis, dashboard creation, and business recommendations.
 
 ---
 
